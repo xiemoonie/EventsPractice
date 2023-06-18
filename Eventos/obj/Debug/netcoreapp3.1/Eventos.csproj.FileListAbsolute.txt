@@ -1,0 +1,14 @@
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.exe
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.deps.json
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.json
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.dev.json
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.dll
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\bin\Debug\netcoreapp3.1\Eventos.pdb
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.csproj.AssemblyReference.cache
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfoInputs.cache
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfo.cs
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.dll
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.pdb
+C:\Users\Carola\Documents\EmbeddedSystems\Eventos\Eventos\obj\Debug\netcoreapp3.1\Eventos.genruntimeconfig.cache
